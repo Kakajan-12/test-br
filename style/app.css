@@ -112,7 +112,7 @@ button {
 
 .header__search input::placeholder {
   color: #fff;
-  background-image: url("/img/search.svg");
+  background-image: url("./img/search.svg");
   background-repeat: no-repeat;
   padding-left: 22px;
 }
